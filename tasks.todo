@@ -1,0 +1,16 @@
+Todo:
+ ☐ Sign up to Google Earth Engine
+ ☐ Implement dotenv
+ ☐ Download Population data-set from FTP
+ ☐ Transform the data
+ ☐ Style map with a data-driven property, adding cordinates ect...
+ ☐ Visualizing with MapBox
+ ☐ Population evaluation (The evaluate() function takes all the Earth Engine code you’ve written and runs an asynchronous request to Google’s Servers, retrieves a value, and then sends it back.)
+
+
+ source: 
+ - [MapBox Docs] https://docs.mapbox.com/mapbox-gl-js/example/data-driven-circle-colors/
+ - [GHLS Data-set] http://cidportal.jrc.ec.europa.eu/ftp/jrc-opendata/GHSL/GHS_POP_GPW4_GLOBE_R2015A/GHS_POP_GPW41975_GLOBE_R2015A_54009_1k/V1-0/
+
+ examples:
+   - https://jsfiddle.net/api/post/library/pure/
